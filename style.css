@@ -1,0 +1,57 @@
+
+body{
+    font-family:"Quicksand", sans-serif ;
+    background: #ffff;
+}
+#web-btn{background-color: #FE8C45;
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffff;
+
+}
+
+#font-18{
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+#color{
+    color: #8A47F6;
+    
+    
+}
+#bg-color{
+    background-color:  #F3EDFE;
+}
+
+.mr-5{
+    margin-right: 500px;
+}
+#big-title{
+    font-size: 74px;
+    font-weight: 900;
+    margin-top: 220px;
+   
+}
+.span-border{
+    
+    border-bottom:25px solid #8A47F6;
+    border-radius: 10px;
+    width: 240px;
+    margin-top:35px ;
+    margin-left: 55%;
+    
+}
+.line-m{
+    margin-left: 23vw;
+}
+.we{
+    margin-top: 60px;
+}
+.portfolio-h{
+    height: 45px;
+}
+.row-1{
+    grid-template-columns: repeat(4,25vh);
+    grid-template-rows: repeat(4,25vh);
+}
