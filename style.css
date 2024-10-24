@@ -2,6 +2,7 @@
 body{
     font-family:"Quicksand", sans-serif ;
     background: #ffff;
+    
 }
 #web-btn{background-color: #FE8C45;
     font-size: 18px;
@@ -32,7 +33,13 @@ body{
 #btn2-color{
     background-color:  #E3D4FD;
 }
-
+.blur{
+    margin-top: -100px;
+}
+.blur2{
+    margin-top: 600px;
+    margin-left: -70px;
+}
 .mr-5{
     margin-right: 500px;
 }
@@ -123,6 +130,19 @@ body{
         grid-area: 3/4/4/5;
     }
     
+}
+
+
+::-webkit-scrollbar{
+    width: 5px;
+    height: 3px;
+    
+}
+
+
+::-webkit-scrollbar-thumb{
+    background: #8A47F6 ;
+    border-radius: 10px;
 }
 
 
